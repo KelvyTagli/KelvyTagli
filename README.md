@@ -11,10 +11,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
 ###
 
 <div align="left">
